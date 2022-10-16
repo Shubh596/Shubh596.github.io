@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e7087b7d.js",
+    "main.css": "/static/css/main.6c2780c0.css",
+    "main.js": "/static/js/main.5b984a1b.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bewakoof.png": "/static/media/bewakoof.d55f1a91d310d07f1e33.png",
+    "static/media/DERMSTORE.png": "/static/media/DERMSTORE.7f0db3fd29e290101e8c.png",
+    "static/media/recruitee.png": "/static/media/recruitee.dcb6b9370a06f39a47f1.png",
+    "static/media/nn.jpg": "/static/media/nn.86c4eabc61661e2f34c0.jpg",
+    "static/media/download.png": "/static/media/download.07d5d887f01316ceb819.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e7087b7d.js.map": "/static/js/main.e7087b7d.js.map",
+    "main.6c2780c0.css.map": "/static/css/main.6c2780c0.css.map",
+    "main.5b984a1b.js.map": "/static/js/main.5b984a1b.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e7087b7d.js"
+    "static/css/main.6c2780c0.css",
+    "static/js/main.5b984a1b.js"
   ]
 }
