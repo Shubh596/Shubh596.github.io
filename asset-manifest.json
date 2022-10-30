@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c2780c0.css",
-    "main.js": "/static/js/main.ad52740e.js",
+    "main.js": "/static/js/main.e1ee73b3.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bewakoof.png": "/static/media/bewakoof.d55f1a91d310d07f1e33.png",
     "static/media/DERMSTORE.png": "/static/media/DERMSTORE.7f0db3fd29e290101e8c.png",
@@ -10,11 +10,11 @@
     "static/media/download.png": "/static/media/download.07d5d887f01316ceb819.png",
     "index.html": "/index.html",
     "main.6c2780c0.css.map": "/static/css/main.6c2780c0.css.map",
-    "main.ad52740e.js.map": "/static/js/main.ad52740e.js.map",
+    "main.e1ee73b3.js.map": "/static/js/main.e1ee73b3.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c2780c0.css",
-    "static/js/main.ad52740e.js"
+    "static/js/main.e1ee73b3.js"
   ]
 }
