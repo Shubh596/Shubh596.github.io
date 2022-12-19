@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c2780c0.css",
-    "main.js": "/static/js/main.6f773684.js",
+    "main.css": "/static/css/main.3484809f.css",
+    "main.js": "/static/js/main.3fad3c10.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bewakoof.png": "/static/media/bewakoof.d55f1a91d310d07f1e33.png",
     "static/media/DERMSTORE.png": "/static/media/DERMSTORE.7f0db3fd29e290101e8c.png",
+    "static/media/Yoox.png": "/static/media/Yoox.8f462fd62064eac21df9.png",
+    "static/media/nn.jpg": "/static/media/nn.4b74739069137a310c22.jpg",
     "static/media/recruitee.png": "/static/media/recruitee.dcb6b9370a06f39a47f1.png",
-    "static/media/nn.jpg": "/static/media/nn.86c4eabc61661e2f34c0.jpg",
-    "static/media/download.png": "/static/media/download.07d5d887f01316ceb819.png",
+    "static/media/RodanField.png": "/static/media/RodanField.69a9d7a7f41ea6765de3.png",
+    "static/media/Shubham-Pandey-Resume.pdf": "/static/media/Shubham-Pandey-Resume.95f93e3eaf6a9869a1d4.pdf",
     "index.html": "/index.html",
-    "main.6c2780c0.css.map": "/static/css/main.6c2780c0.css.map",
-    "main.6f773684.js.map": "/static/js/main.6f773684.js.map",
+    "main.3484809f.css.map": "/static/css/main.3484809f.css.map",
+    "main.3fad3c10.js.map": "/static/js/main.3fad3c10.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c2780c0.css",
-    "static/js/main.6f773684.js"
+    "static/css/main.3484809f.css",
+    "static/js/main.3fad3c10.js"
   ]
 }
