@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.990579f7.css",
-    "main.js": "/static/js/main.0de2351e.js",
+    "main.js": "/static/js/main.b2ab7274.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bewakoof.png": "/static/media/bewakoof.d55f1a91d310d07f1e33.png",
     "static/media/DERMSTORE.png": "/static/media/DERMSTORE.7f0db3fd29e290101e8c.png",
@@ -12,11 +12,11 @@
     "static/media/RodanField.png": "/static/media/RodanField.69a9d7a7f41ea6765de3.png",
     "index.html": "/index.html",
     "main.990579f7.css.map": "/static/css/main.990579f7.css.map",
-    "main.0de2351e.js.map": "/static/js/main.0de2351e.js.map",
+    "main.b2ab7274.js.map": "/static/js/main.b2ab7274.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.990579f7.css",
-    "static/js/main.0de2351e.js"
+    "static/js/main.b2ab7274.js"
   ]
 }
